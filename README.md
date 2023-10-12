@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...anything
 - 🤔 I’m looking for help with ...nothing
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...email
+- 📫 How to reach me: ...email or phone
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...I enjoy playing basketball and chess.
 -->
