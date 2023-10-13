@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...I enjoy playing basketball and chess.
 -->
+Brian Wong
+Computer Science (BS)
+2027
