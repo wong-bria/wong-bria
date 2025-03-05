@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...nothing
-- 🌱 I’m currently learning ...computer science at Northeastern University
+- 🔭 I’m currently working on ... a color extraction tool using HTML, CSS, and JavaScript
+- 🌱 I’m currently learning ... computer science at Northeastern University
 - 👯 I’m looking to collaborate on ...anything
-- 🤔 I’m looking for help with ...nothing
-- 💬 Ask me about ...anything
-- 📫 How to reach me: ...email or phone
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... email or phone
 - 😄 Pronouns: ...he/him/his
-- ⚡ Fun fact: ...I enjoy playing basketball and chess.
+- ⚡ Fun fact: ... I enjoy playing basketball, chess, and video games.
 -->
 Brian Wong
 Computer Science (BS)
