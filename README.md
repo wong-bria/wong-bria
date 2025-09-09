@@ -9,6 +9,7 @@ Computer Science (BS)
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... email or phone
 - 😄 Pronouns: ...he/him/his
+- 🔭 I’m currently working on a color extraction tool using HTML, CSS, and JavaScript
 -->
 
 
@@ -29,7 +30,6 @@ Computer Science (BS)
 
 ### Additional Information:
 
-- 🔭 I’m currently working on a color extraction tool using HTML, CSS, and JavaScript
-- 🌱 I’m currently learning Computer Science at Northeastern University--and HTML, CSS, and JavaScript in my free time
+- 🌱 I’m currently learning Computer Science at Northeastern University
 - ⚡ Fun fact: I enjoy playing basketball, chess, and video games.
 
