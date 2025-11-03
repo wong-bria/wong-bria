@@ -32,4 +32,5 @@ Computer Science (BS)
 
 - 🌱 I’m currently learning Computer Science at Northeastern University
 - ⚡ Fun fact: I enjoy playing basketball, chess, and video games.
+- Personal Website: https://wong-bria.github.io/Brian-Wong/
 
