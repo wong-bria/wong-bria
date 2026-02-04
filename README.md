@@ -22,9 +22,9 @@ Computer Science (BS)
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://camo.githubusercontent.com/f833cc89589b5ee94e05e4c4f45e54e0a4e6a9bcf256a362229f9c6831516e02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d417373656d626c792d3532353235323f7374796c653d666c6174266c6f676f3d67686f7374657279266c6f676f436f6c6f723d7768697465"/>
-  <img src="https://camo.githubusercontent.com/26d6236a3d87d4fbc3361d1bd9fb76302fc8c99b0cb5cbbafca3b69ff10a582f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5261636b65742d3946314432303f7374796c653d666c6174266c6f676f3d7261636b6574266c6f676f436f6c6f723d7768697465"/>
-  <img src="https://camo.githubusercontent.com/06034a2a848abd30db1eef2dd0603c6cab23e53533eb36bef9704f018c2d1468/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c615465582d3030383038303f7374796c653d666c6174266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=react&logoColor=darkblue" />
+  <img src="https://img.shields.io/badge/Typescript-358EF1?style=flat-square&logo=typescript&logoColor=18457D" />
+
 </p>
 
 
